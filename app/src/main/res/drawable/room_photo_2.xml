@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="260dp"
+    android:viewportWidth="400"
+    android:viewportHeight="260">
+  <path
+      android:fillColor="#FFEFF4F1"
+      android:pathData="M0,0h400v260H0z"/>
+  <!-- Door / Balcony -->
+  <path
+      android:fillColor="#FF2E8B63"
+      android:pathData="M30,40h100v180H30z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M40,50h80v160H40z"/>
+  <!-- Mattress leaning on wall -->
+  <path
+      android:fillColor="#FFA83232"
+      android:pathData="M280,70h80v130h-80z"/>
+  <path
+      android:fillColor="#FFF7EED8"
+      android:pathData="M290,80h60v110h-60z"/>
+  <!-- Bed Frame -->
+  <path
+      android:fillColor="#FF166A4A"
+      android:pathData="M20,190h220v30H20z"/>
+  <path
+      android:fillColor="#FFA83232"
+      android:pathData="M30,175h60v20H30z"/>
+</vector>

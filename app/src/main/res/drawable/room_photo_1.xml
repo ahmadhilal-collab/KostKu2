@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="260dp"
+    android:viewportWidth="400"
+    android:viewportHeight="260">
+  <path
+      android:fillColor="#FFEAEFED"
+      android:pathData="M0,0h400v260H0z"/>
+  <path
+      android:fillColor="#FF2E8B63"
+      android:pathData="M0,0h400v40H0z"/>
+  <!-- Room Interior Window -->
+  <path
+      android:fillColor="#FF166A4A"
+      android:pathData="M50,60h90v100H50z"/>
+  <path
+      android:fillColor="#FFDDEFE5"
+      android:pathData="M55,65h37v42H55zM97,65h38v42H97zM55,112h37v43H55zM97,112h38v43H97z"/>
+  <!-- AC Unit -->
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M240,40h110v30H240z"/>
+  <path
+      android:fillColor="#FFE0E0E0"
+      android:pathData="M250,62h90v3H250z"/>
+  <!-- Bed & Maroon Pillow -->
+  <path
+      android:fillColor="#FFD4B26E"
+      android:pathData="M40,180h320v40H40z"/>
+  <path
+      android:fillColor="#FFA83232"
+      android:pathData="M60,165h70v25H60z"/>
+  <path
+      android:fillColor="#FFFFFFFF"
+      android:pathData="M140,168h110v20H140z"/>
+  <!-- Tile Floor -->
+  <path
+      android:fillColor="#FFD2C8B8"
+      android:pathData="M0,220h400v40H0z"/>
+</vector>
